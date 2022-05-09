@@ -1,0 +1,26 @@
+{
+    "name": "sidhu",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --watchAll --verbose --coverage --detectOpenHandles"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "config": "^3.3.7",
+        "debug": "^4.3.4",
+        "express": "^4.18.1",
+        "joi": "^17.6.0",
+        "jsonwebtoken": "^8.5.1",
+        "lodash": "^4.17.21",
+        "mongoose": "^6.3.2",
+        "supertest": "^6.2.3"
+    },
+    "devDependencies": {
+        "jest": "^28.1.0"
+    }
+}

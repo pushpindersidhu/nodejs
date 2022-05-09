@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "jwtPrivateKey",
+    "mongoURI": "mongodb://localhost:27017/sidhu"
+}
